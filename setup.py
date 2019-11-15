@@ -7,6 +7,7 @@ setup(
     author="Aidan Pitt-Brooke",
     author_email="f.sylvestris@gmail.com",
     py_modules=["pools"],
+    python_requires=">=3.5.4, <4",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
